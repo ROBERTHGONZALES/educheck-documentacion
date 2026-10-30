@@ -1,0 +1,12 @@
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Entorno
+.env
+.env.*
+
+# Python
+__pycache__/
+.venv/
