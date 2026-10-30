@@ -3,10 +3,10 @@
 Documentación, build listo para demostrar y utilidades de despliegue del sistema de
 asistencia escolar EduCheck.
 
-> Proyecto dividido en 3 partes:
-> 1. Backend Django (`parte-1-backend-django`)
-> 2. Frontend React (`parte-2-frontend-react`)
-> 3. **Documentación y despliegue** (este repositorio)
+> Proyecto dividido en 3 repositorios:
+> 1. Backend Django — https://github.com/ROBERTHGONZALES/educheck-sistema
+> 2. Frontend React — https://github.com/ROBERTHGONZALES/educheck-frontend
+> 3. **Documentación y despliegue** — este repositorio
 
 ## Contenido
 
